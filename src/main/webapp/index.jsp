@@ -2,7 +2,8 @@
 <html>
 <head>
 	<title>WAR Web Service</title>
-	<p1> Hi,This is Sampad Pradhan</p1>
+	<p1> What is jenkins ?</p1>
+	Ans-Jenkins is a open source automation tool writtern in java which helps us to intigrate and build and deploy the codes.
 	<p2> this is my second web project </p2>
 	
 </head>
